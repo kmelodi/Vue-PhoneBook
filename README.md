@@ -1,9 +1,9 @@
 # Phone Book  Vue 3
 
 > This is the Test project from the YouTube Vue JS Crash Course 2021.
-```
-> YouTube Video: https://www.youtube.com/watch?v=qZXt1Aom3Cs
-```
+
+> [YouTube Video](https://www.youtube.com/watch?v=qZXt1Aom3Cs)
+
 ## Project setup
 
 ```
