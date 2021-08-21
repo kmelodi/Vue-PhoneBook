@@ -1,6 +1,7 @@
-# Vue Crash Course (Contact Tracker)
+# Vue 3 Phone Book 
 
-> This is the project from the YouTube crash course
+> This is the Test project from the YouTube crash course
+YouTube: https://www.youtube.com/watch?v=qZXt1Aom3Cs
 
 ## Project setup
 
